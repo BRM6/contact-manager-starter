@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class ContactManagerTest {
+public class ContactManagerTest {
 
     @Test
     public void test(){
